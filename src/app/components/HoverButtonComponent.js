@@ -55,6 +55,7 @@ const HoverButton = () => {
           <Image
             src="left_arrow.svg"
             alt="icon"
+            loading="lazy" 
             w="50%"
             h="50%"
             objectFit="contain"
@@ -80,6 +81,7 @@ const HoverButton = () => {
             alt="icon"
             w="50%"
             h="50%"
+            loading="lazy" 
             objectFit="contain"
           />
         </MotionBox>

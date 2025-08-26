@@ -41,6 +41,7 @@ export default function FooterComponent() {
                 width="auto"
                 cursor="pointer"
                 _hover={{ opacity: 0.8 }}
+                loading="lazy" 
                 transition="opacity 0.2s"
               />
             </Link>

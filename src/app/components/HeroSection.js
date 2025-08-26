@@ -151,30 +151,35 @@ const HeroSection = () => {
               alt="Frame1"
               boxSize="45px"
               filter="grayscale(1) brightness(0.6)"
+              loading="lazy" 
             />
             <Image
               src="/Frame2.svg"
               alt="Frame2"
               boxSize="45px"
               filter="grayscale(1) brightness(0.6)"
+              loading="lazy" 
             />
             <Image
               src="/Frame3.svg"
               alt="Frame3"
               boxSize="45px"
               filter="grayscale(1) brightness(0.6)"
+              loading="lazy" 
             />
             <Image
               src="/Frame4.svg"
               alt="Frame4"
               boxSize="45px"
               filter="grayscale(1) brightness(0.6)"
+              loading="lazy" 
             />
             <Image
               src="/Frame5.svg"
               alt="Frame5"
               boxSize="45px"
               filter="grayscale(1) brightness(0.6)"
+              loading="lazy" 
             />
           </HStack>
 
