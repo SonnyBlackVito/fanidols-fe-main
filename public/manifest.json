@@ -1,0 +1,27 @@
+{
+  "theme_color": "#D62E2F",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Kpop Road",
+  "short_name": "KpopRoad",
+  "description": "K-POP ROAD is a next-generation Web3 platform designed to connect global fans with K-POP artists.",
+  "icons": [
+      {
+          "src": "/icon-32x32.png",
+          "sizes": "32x32",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-64x64.png",
+          "sizes": "64x64",
+          "type": "image/png"
+      },
+      {
+          "src": "/icon-150x150.png",
+          "sizes": "150x150",
+          "type": "image/png"
+      }
+  ]
+}
